@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "rhinoshopb2a6e39b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
